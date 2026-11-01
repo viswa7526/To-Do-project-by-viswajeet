@@ -215,7 +215,7 @@ body{
     outline-offset: 3px;
 }
 #quotes{
-    background-image: url("/assests/quotes.png");
+    background-image: url("assests/quotes.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
